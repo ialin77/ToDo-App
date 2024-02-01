@@ -1,9 +1,9 @@
 # ToDo-App
 
-ToDo App is a simple app where you cand add your tasks for to do.
-For the ToDo App, I used the Python language for all functionalities, and the entire application was written in PyCharm.Also, during the realization of the project, I used the Djnago web framework to develop project.
+ToDo App is a simple app where you can add your tasks to do.
+For the ToDo App, I used the Python language for all functionalities, and the entire application was written in PyCharm.Also, during the realization of the project, I used the Djnago web framework to develop the project.
 
-The only app of the project it's called 'tasks' where I integrated the functionalties such as adding tasks, updating or deleting them, and markes as done if you complete that task.
+The only app of the project is called 'tasks' where I integrated the functionalities such as adding tasks, updating or deleting them, and marking as done if you complete that task.
 
 Database
 ----------
